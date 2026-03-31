@@ -42,5 +42,5 @@ A detailed report is available in:
 
 ---
 
-👨‍💻 **Developed by:** *Vani Sharma*  
+👨‍💻 **Developed by:** *Omprakash Tripathi*  
 📅 **Year:** 2025  
